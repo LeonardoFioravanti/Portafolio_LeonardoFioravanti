@@ -25,4 +25,4 @@ public class CategoriaController {
         model.addAttribute("totalCategorias", categorias.size());
         return "/categoria/listado";
     }
-}
+} /*CategoriaController*/
